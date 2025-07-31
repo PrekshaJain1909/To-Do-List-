@@ -4,7 +4,7 @@ A simple yet powerful To-Do Smart Scheduler web app that helps you organize task
 
 ## 📸 Demo
 
-![To-Do Smart Scheduler Screenshot](./To-Do-List/todo-screenshot.png) <!-- Replace with actual image path -->
+![To-Do Smart Scheduler Screenshot](https://github.com/PrekshaJain1909/To-Do-List-/blob/main/To%20Do%20List/todo-screenshot.png) <!-- Replace with actual image path -->
 
 ## 🔗 Live Site
 
