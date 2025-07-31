@@ -1,16 +1,33 @@
-# To-Do-List-
-a modern, HTML, CSS, and JavaScript-built to-do list website that is ideal for beginners. Users can easily add, and remove jobs, which simplifies and improves everyday organisation. Ideal for maintaining organisation while refining your foundational web development abilities.
-# Features
-1.) Add Tasks: Easily add new tasks to your list.
+# 🧠 To-Do Smart Scheduler
 
-2.) Delete Tasks: Remove tasks from the list when they're no longer needed.
+A simple yet powerful To-Do Smart Scheduler web app that helps you organize tasks efficiently, prioritize smartly, and stay productive.
 
-3.) Responsive Design: The layout is responsive and works well on different screen sizes.
-# Technologies Used
-HTML: Structure of the web page.
+## 📸 Demo
 
-CSS: Styling to make the page visually appealing.
+![To-Do Smart Scheduler Screenshot](./assets/todo-screenshot.png) <!-- Replace with actual image path -->
 
-JavaScript: Functionality to add, complete, and delete tasks.
-# Contributing
-Contributions are welcome! If you have any ideas for improvements or new features, feel free to submit a pull request.
+## 🔗 Live Site
+
+[Click here to view the live project]([https://prek-to-do-list.vercel.app/]) <!-- Replace with your deployed URL -->
+
+---
+
+## 🚀 Features
+
+- ✅ Add, edit, and delete tasks
+- 🔔 Reminders 
+- 🕓 Auto-sorting tasks by priority or deadline
+- 📅 Smart schedule suggestions (if implemented)
+- 🎯 Mark tasks as completed
+- 📱 Responsive for mobile and desktop
+
+---
+
+## 🛠️ Tech Stack
+
+- **HTML5**
+- **CSS3**
+- **JavaScript (Vanilla JS)**
+
+---
+
