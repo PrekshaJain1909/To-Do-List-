@@ -4,11 +4,11 @@ A simple yet powerful To-Do Smart Scheduler web app that helps you organize task
 
 ## 📸 Demo
 
-![To-Do Smart Scheduler Screenshot](./assets/todo-screenshot.png) <!-- Replace with actual image path -->
+![To-Do Smart Scheduler Screenshot](./To-Do-List/todo-screenshot.png) <!-- Replace with actual image path -->
 
 ## 🔗 Live Site
 
-[Click here to view the live project]([https://prek-to-do-list.vercel.app/]) <!-- Replace with your deployed URL -->
+[Click here to view the live project](https://prek-to-do-list.vercel.app/) <!-- Replace with your deployed URL -->
 
 ---
 
